@@ -1,4 +1,8 @@
-# RydeBot
+# RydeBot :oncoming_automobile:
+
+## Project Vision  
+We want to build a simple Rideshare App called RydeBot. Users will be able to login and either post as a rider, or select the posts as a driver.   
+Riders can post their requests which are shown to drivers. Drivers can view the riders locations/request schedule and select the rider they would like to pick up. They can also chat with riders. Once selected, navigation is started on their phone.
 
 ## Tenative Timeline
 Week 5/6-5/12: finish gui, set up parse server, finish login/signup activity, start on post and browser activity  
