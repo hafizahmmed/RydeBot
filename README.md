@@ -1,4 +1,6 @@
 # RydeBot :oncoming_automobile:
+[![Build Status](https://travis-ci.org/zedtang/RydeBot.svg?branch=master)](https://travis-ci.org/zedtang/RydeBot)
+
 
 ## Project Vision  
 We want to build a simple Rideshare App called RydeBot. Users will be able to login and either post as a rider, or select the posts as a driver.   
