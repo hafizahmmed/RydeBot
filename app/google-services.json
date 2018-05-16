@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517594352364",
+    "firebase_url": "https://rydebot.firebaseio.com",
+    "project_id": "rydebot",
+    "storage_bucket": "rydebot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517594352364:android:c686c3296195a393",
+        "android_client_info": {
+          "package_name": "com.example.jiaheng.rydebot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517594352364-rlo76rr1p66rr8artmm0lu3fstt89qn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jiaheng.rydebot",
+            "certificate_hash": "3134c0be10ae7d8efcb10f7140e5043885c5955d"
+          }
+        },
+        {
+          "client_id": "517594352364-4ik0b69qj8qrdnuhdrc92n93b33kjvjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlI72z-E9vimcV9vaVbBjMAjHBYI-qnEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517594352364-4ik0b69qj8qrdnuhdrc92n93b33kjvjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
